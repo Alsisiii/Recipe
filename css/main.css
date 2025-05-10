@@ -38,7 +38,7 @@ html {
 }
 
 body {
-    background-color: var(--Rose50);
+    background-color: hsl(30, 54%, 90%);
     font-family: "Outfit", sans-serif;
     font-optical-sizing: auto;
     font-style: normal;
